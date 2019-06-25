@@ -3,8 +3,14 @@
 from sense_hat import SenseHat
 sense = SenseHat()
 r = (255, 0, 0)
+y = (255, 255, 0)
 b = (0, 0, 255)
+bk = (0, 0, 0)
 w = (255, 255, 255)
+gy = (155, 155, 155)
+g = (0, 255, 0)
+c = (0, 255, 255)
+rb = (255, 0, 125)
 
 pixels = [
     b, b, b, b, r, r, r, r,
